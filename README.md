@@ -111,19 +111,24 @@ Pharmaco-reminder app is open-source  app for Android & ios. It is built with Da
 ## Snapshots
 
 
-| Splash Screen | home screen Screen                        |
+| Splash Screen | 2                       |
 |------|-------------------------------------------|
-|<img src="assets/splash.jpg" width="400">| <img src="assets/home.jpg" width="400"> |
+|<img src="assets/1.png" width="400">| <img src="assets/2.png" width="400"> |
 
 
-| permission                                     | About  Page                                |
+| 3                                     | 4  Page                                |
 |---------------------------------------------|----------------------------------------------|
-| <img src="assets/permission.jpg" width="400"> | <img src="assets/about.jpg" width="400"> |
+| <img src="assets/3.png" width="400"> | <img src="assets/4.png" width="400"> |
 
 
-| Wrong Screen                                    | Data hourly Page                               |
+| 5 Screen                                    | 6 Page                               |
 |----------------------------------------------|----------------------------------------------|
-| <img src="assets/wrong.jpg" width="400"> | <img src="assets/home.jpg" width="400"> |
+| <img src="assets/5.png" width="400"> | <img src="assets/6.png" width="400"> |
 
+
+
+| 7 Screen                                    | 8 Page                               |
+|----------------------------------------------|----------------------------------------------|
+| <img src="assets/7.png" width="400"> | <img src="assets/8.png" width="400"> |
 
 
