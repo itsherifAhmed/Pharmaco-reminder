@@ -76,7 +76,7 @@ Pharmaco-reminder app is open-source  app for Android & ios. It is built with Da
 
 
 ## Other Flutter Projects 🔐
-- [Pharmaco-reminder app Udemy]https://github.com/itsherifAhmed/Pharmaco-reminder)
+- [Pharmaco-reminder app Udemy](https://github.com/itsherifAhmed/Pharmaco-reminder)
 - [Valorant app Udemy](https://github.com/itsherifAhmed/valorant_cubit_game_udemy)
 - [Weather App Udemy](https://github.com/itsherifAhmed/weather_app_udemy)
 - [Cubit Movie Udemy](https://github.com/itsherifAhmed/cubit_movie-udemy)
